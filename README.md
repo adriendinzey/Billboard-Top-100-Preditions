@@ -1,7 +1,7 @@
 # Billboard Top 100 Preditions
+[View Final Report](https://github.com/adriendinzey/Billboard-Top-100-Preditions/blob/main/final_report_analysis.ipynb)
 ### Authors: Adrien Dinzey & Joshua Smallwood
  Creating a predictive model to determine if a song will make the Billboard Top 100 and what its position will be.
-
 # Techniques Used
 - Linear Regression
 - Logistic Regression
@@ -11,4 +11,3 @@
 - Pandas
 - Scikit-learn (Sklearn)
 
-### Feel free to read the final report, saved as "Final Report.pdf"
